@@ -60,5 +60,5 @@ After running the above command, Streamlit will automatically launch in your def
 If not, manually open the link shown in your terminal, usually:
 
 arduino
-Copy code
-http://localhost:8501
+Copy code.
+http://localhost:8501 
